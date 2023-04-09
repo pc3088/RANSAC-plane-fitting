@@ -5,7 +5,9 @@ Here, the task is to calculate the best plane fit in the given pointcloud data. 
 
 The given point cloud can be visualized in the image given below:
 
-![Point cloud data](./images/pointcloud.png | width = 100)
+<img src="./images/pointcloud.png" width=40% height=40%>
 
-<img src="./images/pointcloud.png" width=50% height=50%>
+The output after running RANSAC algorithm to get the best plane fit can be visualized below:
+
+<img src="./images/plane_fitting.png" width=40% height=40%>
 
