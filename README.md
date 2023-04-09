@@ -7,3 +7,5 @@ The given point cloud can be visualized in the image given below:
 
 ![Point cloud data](./images/pointcloud.png | width = 100)
 
+<img src="./images/pointcloud.png" width=50% height=50%>
+
